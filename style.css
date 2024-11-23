@@ -1,0 +1,103 @@
+.body{
+    background-color: rgb(48, 47, 47);
+    padding: 50px;
+    width: 300px;
+    color: white;
+    border-radius: 10px;
+
+
+}
+h3{
+    color: rgb(75, 94, 57);
+}
+.image{
+border-radius: 100px;
+}
+
+ .one{
+    margin-top: 10px;
+    color: black;
+    float: none;
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(91, 86, 86);
+    margin-bottom: 10px;
+   
+ }
+ .two{
+    background-color: white;
+    color: black;
+    float: none;
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(91, 86, 86);
+    margin-bottom: 10px;
+ }
+.three{
+    background-color: white;
+    color: black;
+    float: none;
+    width: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(91, 86, 86);
+    margin-bottom: 10px;
+}
+.four{
+    background-color: white;
+  color: black;
+  float: none;
+  width: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(91, 86, 86);
+  margin-bottom: 10px;
+    
+}
+.five{
+    background-color: white;
+  color: black;
+  float: none;
+  width: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(91, 86, 86);
+  
+}
+
+.one:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+.two:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+.three:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+.four:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+.five:hover {
+  background-color: #4CAF50; 
+  color: white;
+}
+
